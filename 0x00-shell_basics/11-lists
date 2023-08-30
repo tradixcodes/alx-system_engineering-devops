@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lA $(pwd) $(pwd)/.. /boot/
+ls -lIa $(pwd) $(pwd)/.. /boot/

@@ -1,2 +1,2 @@
 #!/bin/bash
-upuzi3
+ls -apm
